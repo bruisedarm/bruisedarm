@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![](https://komarev.com/ghpvc/?username=tcfsr&label=hi&style=flat&color=CECDFF&base=1000)  
+![](https://komarev.com/ghpvc/?username=tcfsr&label=hi&style=flat&color=D8D8D8&base=1000)  
 
 [rentry](https://rentry.co/keepe) ‎ ‎ [atabook](https://vape.atabook.org/)
 
